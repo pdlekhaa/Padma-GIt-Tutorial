@@ -1,3 +1,5 @@
 Introduce yourself in this file!
 
 Tell us your name, year, school, major (if you are undecided, write down the frontrunners), and a fun fact!
+
+Hello, my name is Padma, and I'm a sophomore. I'm in LSA, and my major is Data Science. My fun fact is that I've been to every state in the US, but some were when I was really little. 
